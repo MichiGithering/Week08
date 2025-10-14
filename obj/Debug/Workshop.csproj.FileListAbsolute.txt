@@ -1,0 +1,8 @@
+C:\Users\Acer\source\repos\Workshop\Workshop\bin\Debug\Workshop.exe.config
+C:\Users\Acer\source\repos\Workshop\Workshop\bin\Debug\Workshop.exe
+C:\Users\Acer\source\repos\Workshop\Workshop\bin\Debug\Workshop.pdb
+C:\Users\Acer\source\repos\Workshop\Workshop\obj\Debug\Workshop.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Workshop\Workshop\obj\Debug\Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Workshop\Workshop\obj\Debug\Workshop.exe
+C:\Users\Acer\source\repos\Workshop\Workshop\obj\Debug\Workshop.pdb
+C:\Users\Acer\source\repos\Workshop\Workshop\obj\Debug\Workshop.exe.config
